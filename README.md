@@ -7,4 +7,4 @@ This project adeptly integrates crucial programming principles. It utilizes hash
 
 Furthermore, the application showcases polymorphism, adapting seamlessly to different audio content types. It also leverages Java Streams for efficient data processing.
 
-Overall, this music library project succinctly showcases a mastery of diverse programming concepts acquired through CPS209, highlighting both theoretical understanding and practical implementation skills.
+Overall, this music library project showcases a mastery of diverse programming concepts acquired through CPS209, highlighting both theoretical understanding and practical implementation skills.
